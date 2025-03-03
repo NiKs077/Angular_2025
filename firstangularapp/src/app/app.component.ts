@@ -8,6 +8,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'firstangularapp';
-  nonsense="this is bad commit 3"
-  
+  fromUat="changes from UAT";
 }
